@@ -6,6 +6,7 @@ public class LocationStats {
     private int latestTotalCase;
     private String statComparedToPrevDay;
 
+
     public String getStatComparedToPrevDay() {
         return statComparedToPrevDay;
     }
